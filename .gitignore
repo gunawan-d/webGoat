@@ -32,7 +32,7 @@ src/main/webapp/users/*.props
 classes/*
 *.iml
 pom.xml.versionsBackup
-
+.scannerwork
 /*.iml
 .extract/*
 UserDatabase.mv.db
